@@ -68,7 +68,7 @@ nav .nav-menu a{
 .main{
     /* border: 5px solid red; */
     height: 100vh;
-    background-image: url("../imagenes/programming.png");
+    background-image: url("programming.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
